@@ -36,3 +36,9 @@ One of the criteria to be used in the app are special characters which were foun
 ## DeployedApp
 
 https://valeryo145.github.io/P-Generator-/
+
+## Useful Sources 
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/const
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements#difference_between_statements_and_declarations
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/isNaN
