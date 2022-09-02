@@ -1,5 +1,7 @@
 # Password-Generator
 
+This JavaScript Challenge requires to create an application that an employee can use to generate a random password based on criteria they've selected. This app will run in the browser, and will feature dynamically updated HTML and CSS powered by JavaScript code that you write. It will have a clean and polished user interface that is responsive, ensuring that it adapts to multiple screen sizes. This week's coursework will teach you all the skills you need to succeed in this assignment.
+
 ## User Story
 
 AS AN employee with access to sensitive data
@@ -22,9 +24,8 @@ THEN a password is generated that matches the selected criteria
 WHEN the password is generated
 THEN the password is either displayed in an alert or written to the page
 
-## Mock-Up
-The following image shows the web application's appearance and functionality:
+## A screenshot of the deployed password generator.
+![Screenshot Password Generator](https://user-images.githubusercontent.com/110436164/188050642-4788b519-687f-4813-bb46-f48e28bd7364.png)
 
-A screenshot displays a sample password generator.
-
-How to Complete the Challenge
+## Deployed app
+https://valeryo145.github.io/P-Generator-/
